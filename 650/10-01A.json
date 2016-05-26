@@ -1,0 +1,66 @@
+{
+    "aliquot": 1, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "H:17 Muscovite, 1.09 mg, 50 xstals", 
+    "commit": "fd6d93b645e74299805d609af61cbfa2784148e2", 
+    "conditionals": null, 
+    "detectors": {
+        "AX": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L2(CDD)": {
+            "deflection": 0, 
+            "gain": 0
+        }
+    }, 
+    "extraction": "felix_diode.py", 
+    "identifier": "65010", 
+    "increment": 0, 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NM-283", 
+    "irradiation_level": "H", 
+    "irradiation_position": 17, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2(CDD)"
+        }, 
+        "Ar37": {
+            "detector": "L1"
+        }, 
+        "Ar38": {
+            "detector": "AX"
+        }, 
+        "Ar39": {
+            "detector": "H1"
+        }, 
+        "Ar40": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "Felix", 
+    "material": "Muscovite", 
+    "measurement": "felix_analysis240_90.py", 
+    "project": "ALS Zhu", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "ALS_Zhu", 
+    "sample": "105KNZ09", 
+    "spec_sha": "f5bf3da4c0acf4a6eb7e30b93900b20ca090f3ba", 
+    "timestamp": "2016-05-25T22:51:28.961029", 
+    "tripped_conditional": null, 
+    "username": "", 
+    "uuid": "e6155c0e-ae19-40ed-966f-d0e8392f167f"
+}
